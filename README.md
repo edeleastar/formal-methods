@@ -1,1 +1,2 @@
-# formal-methods
+# formal-spec
+Safe systems
